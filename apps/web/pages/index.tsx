@@ -3,7 +3,7 @@ import { Button } from "ui";
 export default function Web() {
   return (
     <div>
-      <h1>Webs</h1>
+      <h1>Trigger deployment please</h1>
       <Button />
     </div>
   );
