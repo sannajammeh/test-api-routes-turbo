@@ -6,7 +6,7 @@ This is an official Yarn v1 starter turborepo.
 
 This turborepo uses [Yarn](https://classic.yarnpkg.com/lang/en/) as a package manager. It includes the following packages/apps:
 
-### Apps and Packages
+### Apps and Packagesd
 
 - `docs`: a [Next.js](https://nextjs.org) app
 - `web`: another [Next.js](https://nextjs.org) app
