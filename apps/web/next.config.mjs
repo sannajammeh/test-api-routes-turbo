@@ -1,6 +1,6 @@
 import transpileModules from "next-transpile-modules";
 
-const withTM = transpileModules(["design", "ts-utils"]);
+const withTM = transpileModules(["ui"]);
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
